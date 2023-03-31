@@ -29,7 +29,7 @@
 * Langkah berikutnya adalah melakukan cek missing value
 * Setelah melakukan cek missing velue, selanjutnya adalah menentukan korelasi antar fitur
 
-# (Project 3: Studi Kasus Visualisasi data "titanic3") 
+# (Project 6: Studi Kasus Visualisasi data "titanic3") 
 * Studi kasus ini menggunakan dataset "titanic3".
 * Objektif dari studi kasus ini adalah membersihkan data (Data Cleaning).
 * Tahap pertama adalah melakukan deskriptif analytic.
