@@ -1,5 +1,5 @@
 # Amir_Portfolio
-# (Project 1: Studi Kasus PlayTennis) 
+# [Project 1: Studi Kasus PlayTennis](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Project%201.ipynb) 
 * Mengukur nilai akurasi tertinggi dengan  menggunakan klasifikasi Naive Bayes.
 * Studi kasus ini menggunakan data "PlayTennis".
 * Objektif utama dari studi kasus ini adalah mencarai tahu kemungkinan bermain tennis atau tidak berdasarkan fitur-fitur yang mempengaruhi. 
