@@ -92,7 +92,7 @@
 4. Normalization and Logarithmic Classification:
 *Apply normalization techniques to standardize numerical features.
 *Implement logarithmic classification for specific variables, as deemed appropriate.
-# [Project 7: Public E-commerce Dataset Analysis](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Project%206.ipynb) 
+# [Project 7: Public E-commerce Dataset Analysis](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Analisis_Data_E_Commerce_Public_Dataset.ipynb)) 
 *Introduction*
 *This project centers on the analysis of a public e-commerce dataset with the primary aim of extracting insights into sales trends and determining the most dominant states in terms of order placement. The analysis encompasses data cleaning, exploratory data analysis (EDA), and the visualization of key findings.
 *Dataset Overview*
