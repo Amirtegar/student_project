@@ -23,7 +23,7 @@
 *Dataset Overview*
 *The "Mobile Phone Dataset" consists of diverse attributes related to mobile phones, with Bluetooth being a key feature of interest. Each data point represents a mobile phone entry with associated features.
 
-# [Project 3: Fire Incidents Analysis in Jakarta](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Project%203.ipynb) 
+# [Project 3: Fire Incidents Analysis in Jakarta](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Data_Kebakaran.ipynb) 
 *Introduction*
 *This case study delves into the analysis of fire incidents within the Jakarta region, utilizing a comprehensive dataset specifically curated for this purpose. The dataset, herein referred to as "Fire Incidents Data," captures crucial information surrounding occurrences of fires in the Jakarta area.
 *Objectives*
