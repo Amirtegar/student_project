@@ -46,6 +46,8 @@
 *Data Visualization:
 1. Utilize various visualization techniques such as bar charts, pie charts, and other relevant visualizations to present key findings.
 2. Visualize the distribution of damaged facilities, financial losses, and regional fire incident frequencies.
+## An overview of the region with the highest number of affected casualties
+![](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Image/project%203.png)
 
 # [Project 4: Abalone Dataset Analysis](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Project%204.ipynb) 
 *Introduction*
