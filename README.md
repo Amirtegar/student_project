@@ -116,6 +116,8 @@
 *Perform exploratory data analysis to understand the distribution, relationships, and key statistical measures within the dataset.
 5. Data Visualization:
 *Create visual representations of the analyzed data to facilitate the communication of key findings in a clear and interpretable manner.
+## Overview Of Annual Sales Trends
+![](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Image/project%207.png)
 # [Project 8: Image Classification Project with Machine Learning](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Proyek_Akhir_Klasifikasi_Gambar.ipynb) 
 *Overview*
 *This project involves image classification using machine learning, specifically implementing a convolutional neural network (CNN) with the following key specifications:
