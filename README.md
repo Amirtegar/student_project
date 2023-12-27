@@ -80,6 +80,8 @@
 *Perform a meticulous examination of missing values within the dataset to ensure data integrity.
 4. Correlation Determination:
 *Analyze and determine the correlation between different features to unveil potential patterns and relationships.
+## Overview Of The Earthquake Visualization
+![](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Image/project%205.png)
 
 # [Project 6: Titanic3 Dataset Analysis](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Project%206.ipynb) 
 *Introduction*
