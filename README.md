@@ -12,6 +12,8 @@
 5. PlayTennis: Tennis playing decision (Yes, No).
 *Accuracy Measurement*
 *To measure model accuracy, standard classification evaluation metrics, including precision, recall, and F1-score, are used. However, the main focus is on the overall accuracy of the model in predicting tennis playing decisions.
+## Overview Of The Confusion Matrix Nive Bayes
+![](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Image/Project%201.png)
 
 # [Project 2: Mobile Phone Dataset Analysis](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Project%202.ipynb)
 *Introduction*
