@@ -24,6 +24,8 @@
 2. To apply both K-means clustering and linear regression for classification tasks.
 *Dataset Overview*
 *The "Mobile Phone Dataset" consists of diverse attributes related to mobile phones, with Bluetooth being a key feature of interest. Each data point represents a mobile phone entry with associated features.
+## Overview Of K-Means Clustering
+![](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Image/project%202.png)
 
 # [Project 3: Fire Incidents Analysis in Jakarta](https://github.com/Amirtegar/Amir_Portfolio/blob/main/Code/Data_Kebakaran.ipynb) 
 *Introduction*
